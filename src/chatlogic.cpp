@@ -229,7 +229,7 @@ void ChatLogic::SetPanelDialogHandle(ChatBotPanelDialog *panelDialog)
 }
 
 void ChatLogic::SetChatbotHandle(ChatBot *chatbot)
-{
+{   
     _chatBot = chatbot;
 }
 
